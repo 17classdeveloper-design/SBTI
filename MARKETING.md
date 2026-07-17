@@ -30,6 +30,26 @@
 
 **説明：** SBTIは、31問のクイック診断であなたの「おバカ性格タイプ」を見つけるエンタメ診断アプリです。質問に直感で答えるだけで、全27タイプの中からあなたに近いタイプを判定。結果画面ではタイプ名、スローガン、性格の特徴、3つの特性バランスを楽しく確認できます。診断後は、結果カードを保存して友達にシェアできます。さらに、全27タイプの一覧や人気ランキングもチェック可能。自分のタイプを見つけたり、友達と結果を比べたり、ちょっとした話題づくりにもぴったりです。
 
+## Deutsch
+
+**Name:** SBTI – Verrückter Typentest
+
+**Untertitel:** Dein Typ in 31 Fragen
+
+**Werbetext:** Beantworte 31 spielerische Fragen, entdecke deinen SBTI-Typ, stöbere in 27 Persönlichkeiten, sieh dir das Ranking an und speichere deine Ergebniskarte.
+
+**Beschreibung:** SBTI ist ein spielerischer Persönlichkeitstest für schnelle Lacher und einfaches Teilen. Beantworte 31 kurze Fragen und erhalte dein Ergebnis anhand von Energie, Antrieb und Wärme. SBTI ordnet dich einem von 27 verrückten Persönlichkeitstypen zu. Entdecke alle Typen, sieh dir das Beliebtheitsranking an und speichere deine Ergebniskarte als Bild.
+
+## Français
+
+**Nom :** SBTI – Test de personnalité
+
+**Sous-titre :** Ton type en 31 questions
+
+**Texte promotionnel :** Réponds à 31 questions amusantes, découvre ton type SBTI, explore 27 personnalités, consulte le classement et enregistre ta carte de résultat.
+
+**Description :** SBTI est un test de personnalité décalé, conçu pour rire et partager facilement ses résultats. Réponds à 31 questions rapides et découvre ton profil selon l’énergie, la motivation et la chaleur. SBTI t’associe à l’un des 27 types amusants. Explore tous les types, consulte le classement et enregistre ta carte de résultat sous forme d’image.
+
 ## Screenshots
 
 - zh-Hans: [assets/screenshots/6.9-inch/zh-Hans](assets/screenshots/6.9-inch/zh-Hans)

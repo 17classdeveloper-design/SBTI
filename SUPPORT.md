@@ -49,3 +49,23 @@ https://github.com/17classdeveloper-design/SBTI/issues
 - 誤字やローカライズの報告
 
 お問い合わせの際は、端末モデル、iOSバージョン、アプリバージョン、問題の内容をお知らせください。
+
+---
+
+# SBTI-Support auf Deutsch
+
+Wenn du Hilfe mit SBTI brauchst, erstelle bitte einen Eintrag bei GitHub Issues:
+
+https://github.com/17classdeveloper-design/SBTI/issues
+
+Häufige Themen sind das Speichern der Ergebniskarte, die Sprachwahl, Ranking-Aktualisierungen sowie Fragen zur App-Prüfung, zum Datenschutz oder zu Übersetzungen. Bitte nenne dein Gerätemodell, die iOS-Version, die App-Version und beschreibe das Problem kurz.
+
+---
+
+# Assistance SBTI en français
+
+Si vous avez besoin d’aide avec SBTI, ouvrez un ticket sur GitHub Issues :
+
+https://github.com/17classdeveloper-design/SBTI/issues
+
+Les sujets fréquents concernent l’enregistrement de la carte de résultat, le choix de la langue, l’actualisation du classement, la validation App Store, la confidentialité et les traductions. Merci d’indiquer le modèle de votre appareil, la version d’iOS, la version de l’app et une brève description du problème.

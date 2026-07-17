@@ -71,6 +71,42 @@ SBTIは、31問のクイック診断であなたの「おバカ性格タイプ�
 
 ※本アプリはエンターテインメント目的の診断です。
 
+## de-DE
+
+- App-Store-Name: `SBTI – Verrückter Typentest`
+- Anzeigename: `SBTI`
+- Untertitel: `Dein Typ in 31 Fragen`
+- Schlüsselwörter: `Persönlichkeitstest,Quiz,SBTI,Spaß,Typen,Test,Teilen,Rangliste,MBTI,Karte`
+- Datenschutz: `https://17classdeveloper-design.github.io/SBTI/PRIVACY-DE.html`
+- Support: `https://17classdeveloper-design.github.io/SBTI/SUPPORT-DE.html`
+- Marketing: `https://17classdeveloper-design.github.io/SBTI/MARKETING-DE.html`
+
+### Werbetext
+
+Beantworte 31 spielerische Fragen, entdecke deinen SBTI-Typ, stöbere in 27 Persönlichkeiten, sieh dir das Ranking an und speichere deine Ergebniskarte.
+
+### Beschreibung
+
+SBTI ist ein spielerischer Persönlichkeitstest für schnelle Lacher und einfaches Teilen. Beantworte 31 kurze Fragen und erhalte dein Ergebnis anhand von Energie, Antrieb und Wärme. SBTI ordnet dich einem von 27 verrückten Persönlichkeitstypen zu. Entdecke alle Typen, sieh dir das Beliebtheitsranking an und speichere deine Ergebniskarte als Bild.
+
+## fr-FR
+
+- Nom sur l’App Store : `SBTI – Test de personnalité`
+- Nom affiché : `SBTI`
+- Sous-titre : `Ton type en 31 questions`
+- Mots-clés : `personnalité,test,SBTI,amusant,types,quiz,partage,classement,MBTI,carte`
+- Confidentialité : `https://17classdeveloper-design.github.io/SBTI/PRIVACY-FR.html`
+- Assistance : `https://17classdeveloper-design.github.io/SBTI/SUPPORT-FR.html`
+- Marketing : `https://17classdeveloper-design.github.io/SBTI/MARKETING-FR.html`
+
+### Texte promotionnel
+
+Réponds à 31 questions amusantes, découvre ton type SBTI, explore 27 personnalités, consulte le classement et enregistre ta carte de résultat.
+
+### Description
+
+SBTI est un test de personnalité décalé, conçu pour rire et partager facilement ses résultats. Réponds à 31 questions rapides et découvre ton profil selon l’énergie, la motivation et la chaleur. SBTI t’associe à l’un des 27 types amusants. Explore tous les types, consulte le classement et enregistre ta carte de résultat sous forme d’image.
+
 ## App Privacy Recommendation
 
 - Tracking: No
