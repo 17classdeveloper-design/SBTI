@@ -76,7 +76,7 @@ SBTIは、31問のクイック診断であなたの「おバカ性格タイプ�
 - App-Store-Name: `SBTI – Verrückter Typentest`
 - Anzeigename: `SBTI`
 - Untertitel: `Dein Typ in 31 Fragen`
-- Schlüsselwörter: `Persönlichkeitstest,Quiz,SBTI,Spaß,Typen,Test,Teilen,Rangliste,MBTI,Karte`
+- Schlüsselwörter: `Persönlichkeit,Quiz,Spaß,Typen,Selbsttest,Teilen,Rangliste,Karte,Freunde,Charakter`
 - Datenschutz: `https://17classdeveloper-design.github.io/SBTI/PRIVACY-DE.html`
 - Support: `https://17classdeveloper-design.github.io/SBTI/SUPPORT-DE.html`
 - Marketing: `https://17classdeveloper-design.github.io/SBTI/MARKETING-DE.html`
@@ -94,7 +94,7 @@ SBTI ist ein spielerischer Persönlichkeitstest für schnelle Lacher und einfach
 - Nom sur l’App Store : `SBTI – Test de personnalité`
 - Nom affiché : `SBTI`
 - Sous-titre : `Ton type en 31 questions`
-- Mots-clés : `personnalité,test,SBTI,amusant,types,quiz,partage,classement,MBTI,carte`
+- Mots-clés : `quiz,amusant,types,profil,partage,classement,carte,amis,caractère,portrait`
 - Confidentialité : `https://17classdeveloper-design.github.io/SBTI/PRIVACY-FR.html`
 - Assistance : `https://17classdeveloper-design.github.io/SBTI/SUPPORT-FR.html`
 - Marketing : `https://17classdeveloper-design.github.io/SBTI/MARKETING-FR.html`
