@@ -14,9 +14,9 @@ SBTI is a playful personality quiz app for iPhone. Answer 31 quick questions, di
 
 ## App Store Connect URLs
 
-- Privacy Policy URL: `https://github.com/17classdeveloper-design/SBTI/blob/main/PRIVACY.md`
-- Support URL: `https://github.com/17classdeveloper-design/SBTI/issues`
-- Marketing URL: `https://github.com/17classdeveloper-design/SBTI`
+- Privacy Policy URL: `https://17classdeveloper-design.github.io/SBTI/PRIVACY.html`
+- Support URL: `https://17classdeveloper-design.github.io/SBTI/SUPPORT.html`
+- Marketing URL: `https://17classdeveloper-design.github.io/SBTI/MARKETING.html`
 
 ### Deutsch (de-DE)
 

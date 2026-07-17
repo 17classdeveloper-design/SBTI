@@ -8,9 +8,9 @@
 - Primary Category: Entertainment
 - Secondary Category: Lifestyle
 - Age Rating Suggestion: 9+
-- Privacy Policy URL: `https://github.com/17classdeveloper-design/SBTI/blob/main/PRIVACY.md`
-- Support URL: `https://github.com/17classdeveloper-design/SBTI/issues`
-- Marketing URL: `https://github.com/17classdeveloper-design/SBTI`
+- Privacy Policy URL: `https://17classdeveloper-design.github.io/SBTI/PRIVACY.html`
+- Support URL: `https://17classdeveloper-design.github.io/SBTI/SUPPORT.html`
+- Marketing URL: `https://17classdeveloper-design.github.io/SBTI/MARKETING.html`
 
 ## en-US
 

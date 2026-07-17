@@ -30,6 +30,10 @@ This request is used to display the in-app popularity ranking. If the request fa
 
 SBTI is intended for general entertainment. We do not knowingly collect personal information from children.
 
+## Retention and Your Choices
+
+Your selected language and cached ranking data remain on your device until they are replaced or you delete the app. Because SBTI does not collect accounts or personal profiles, there is no server-side account data to request for deletion. You can revoke photo-library permission in iOS Settings and remove local app data by deleting the app.
+
 ## Changes
 
 We may update this policy if SBTI's privacy practices change. The updated policy will be published at the same privacy policy URL.
@@ -73,6 +77,10 @@ SBTI 可能会向以下地址请求公开排行榜数据：
 ## 儿童隐私
 
 SBTI 面向一般娱乐用途。我们不会有意收集儿童的个人信息。
+
+## 数据保留与选择
+
+语言选择和排行榜缓存会保留在你的设备上，直到数据被替换或你删除 App。SBTI 不收集账号或个人资料，因此没有可申请删除的服务器端账号数据。你可以随时在 iOS“设置”中撤销相册权限，并通过删除 App 移除本地数据。
 
 ## 政策变更
 
